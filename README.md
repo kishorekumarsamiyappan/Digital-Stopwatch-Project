@@ -1,3 +1,5 @@
+
+
 # Digital Stopwatch Project
 
 A micro-project for the course **22ECT31 - Digital Electronics**, implemented using **IC 555 Timer**, **IC 4026 Counter**, and **7-segment displays**. This stopwatch can count seconds from **00 to 59**, featuring **Start/Stop** and **Reset** buttons.
@@ -32,6 +34,8 @@ A micro-project for the course **22ECT31 - Digital Electronics**, implemented us
    - **Reset**: Clears counters to 00.
 
 ## ✅ Output
+
+   [Digital Stopwatch.mp4…](https://github.com/user-attachments/assets/fca4d497-cc74-4aa5-a369-9a526c9ae2f8)
 
 - Accurately counts from **00 to 59 seconds**
 - Smooth rollover to 00 after 59
